@@ -1,0 +1,8 @@
+com\simplotel\resources\TaskSubResource.class
+com\simplotel\resources\service\simplotelTaskUtil.class
+com\simplotel\resources\TaskRootResource.class
+com\simplotel\resources\TaskOperationResource.class
+com\simplotel\resources\TaskResource.class
+com\simplotel\resources\model\SimplotelTask.class
+com\simplotel\resources\service\SimplotelTaskService.class
+com\simplotel\resources\database\DatabaseAccessService.class
